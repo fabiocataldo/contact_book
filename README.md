@@ -1,6 +1,6 @@
 # contact_book
 
-A new Flutter project.
+Project testing a self datebase using SQflite
 
 ## Getting Started
 
